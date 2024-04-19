@@ -2,9 +2,9 @@
 
 ### :space_invader: &nbsp;About Me
 
-<summary><b>Computer Science Engineer, Software Designer Developer!!</br>
-Passionate in problem solving</br>
-Currently Learning</b>
+<summary><b>Computer Science Engineer, Software Designer Developer!!</b>
+<b>Passionate in problem solving</b>
+<b>Currently Learning</b>
 </summary>
 
 <p align="center">
