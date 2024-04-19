@@ -1,6 +1,6 @@
 <img src="images/svg/header_en.svg"></img>
 
-### :space_invader: &nbsp;About Me
+### &nbsp;About Me
 
 <p>
 &nbsp;&nbsp;Computer Science Engineer, Software Designer Developer!!</br>
