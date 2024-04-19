@@ -2,11 +2,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-<summary><b>
+<p>
 &nbsp;&nbsp;Computer Science Engineer, Software Designer Developer!!</br>
 &nbsp;&nbsp;Passionate in problem solving</br>
-&nbsp;&nbsp;Currently Learning</b>
-</summary>
+&nbsp;&nbsp;Currently Learning</p>
+
 
 <p align="center">
   <a href="mailto:aswinselvan3@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
