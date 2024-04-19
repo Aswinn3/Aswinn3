@@ -2,9 +2,9 @@
 
 ### :space_invader: &nbsp;About Me
 
-Computer Science Engineer, Software Developer!!
-Passionate with problem solving
-Currently Learning
+<p>Computer Science Engineer, Software Developer!!</p>
+<p>Passionate with problem solving</p>
+<p>Currently Learning</p>
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
