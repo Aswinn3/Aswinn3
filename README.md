@@ -17,7 +17,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Tech knowledge</b></summary>
   <br/>
 
 <p align="left"> 
