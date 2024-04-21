@@ -3,8 +3,7 @@
 ### &nbsp;About Me
 
 <p>
-&nbsp;&nbsp;Computer Science Engineer, Software Designer Developer!!</br>
-&nbsp;&nbsp;Passionate in problem solving</br>
+&nbsp;&nbsp;Passionate Computer Science Engineer, Software Designer Developer!!</br>
 &nbsp;&nbsp;Currently Learning</p>
 
 
