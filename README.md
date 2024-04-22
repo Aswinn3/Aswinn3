@@ -1,7 +1,7 @@
 <img src="images/svg/header_en.svg"></img>
-
-### &nbsp;About Me
-
+<h1 align="center">
+About Me
+</h1>
 <p>
 &nbsp;&nbsp;Passionate Computer Science Engineer, Software Designer Developer!!</br>
 &nbsp;&nbsp;Currently Learning</p>
