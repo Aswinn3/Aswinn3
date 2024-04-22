@@ -1,5 +1,5 @@
 <img src="images/svg/header_en.svg"></img>
-<h1 align="center">
+<h1 align="left">
 About Me
 </h1>
 <p>
