@@ -15,7 +15,7 @@ About Me
 
 
 <h2>
-<summary><b>:computer: &nbsp;Tech knowledge</b></summary>
+:computer: &nbsp;Tech knowledge
 </h2>
 <p> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
@@ -41,7 +41,7 @@ About Me
 
 
 <h2>
-  <summary><b>:brain: &nbsp;Always learning</b></summary>
+:brain: &nbsp;Always learning
 </h2>
 <p>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
