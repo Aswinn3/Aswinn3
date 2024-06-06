@@ -1,6 +1,6 @@
 <img src="images/svg/header_en.svg"></img>
 
-<h3 align= "left"> 👋 Hi, I’m @Aswinn@3 </h3>
+<h3 align= "left"> 👋 Hi, I’m Aswin </h3>
 
 - 💞️ I’m interested in Web and application development
 - 🌱 I’m currently learning Application development
