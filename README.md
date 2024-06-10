@@ -1,6 +1,10 @@
 <img src="images/svg/header_en.svg"></img>
 
+<<<<<<< HEAD
 <h3 align= "left"> 👋 I am Aswin </h3>
+=======
+<h3 align= "left"> 👋 I’m Aswin </h3>
+>>>>>>> ab2307f94bad05ef51e7d39efbc3a167dd624320
 
 - 💞️ I’m interested in Web and application development
 - 🌱 I’m currently learning Application development
