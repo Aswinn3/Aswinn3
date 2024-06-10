@@ -2,9 +2,9 @@
 
 <h3 align= "left"> 👋 I am Aswin </h3>
 
-- 💞️ I’m interested in Web and application development
-- 🌱 I’m currently learning Application development
-- 👀 I’m looking to collaborate on web development
+- 💞️ I am interested in Web and application development
+- 🌱 I am currently learning Application development
+- 👀 I am looking to collaborate on web development
 - 📫 How to reach me  <br />
 
 <p align="center">
