@@ -198,7 +198,7 @@ g.typingUnderline rect {
           dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
+<text x="64" font-family="Helvetica" font-size=".12em" fill="white" position="relative" align= "left"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
   Web, Application Design &amp; Development &amp; Technology.
