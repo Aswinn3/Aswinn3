@@ -8,7 +8,7 @@
 - 📫 How to reach me  <br />
 
 <p align="center">
-  <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="Aswin" height="30" width="40"/>
+  <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="Aswin" height="30" width="40" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aswins23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Aswin" height="30" width="40" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
