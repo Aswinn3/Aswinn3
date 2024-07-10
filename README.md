@@ -8,8 +8,10 @@
 - 📫 How to reach me  <br />
 
 <p align="center">
+  
+  <!-- https://icons8.com/icon/ho8QlOYvMuG3/gmail-logo -->
   <!-- <a href="mailto:aswinselvan3@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-  <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://icons8.com/icon/ho8QlOYvMuG3/gmail-logo" alt="Aswin" height="30" width="40"/>
+  <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="Aswin" height="30" width="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aswins23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Aswin" height="30" width="40" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
