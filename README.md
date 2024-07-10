@@ -8,7 +8,7 @@
 - 📫 How to reach me  <br />
  -->
 
-<h3 align="center">I'm a web developer who loves what I do, and I've hands on experience and specialize in creating user-friendly and visually appealing websites using the latest technologies. I'm well-versed in JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.</h3>
+<h3>I'm a web developer who loves what I do, and I've hands on experience and specialize in creating user-friendly and visually appealing websites using the latest technologies. I'm well-versed in JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.</h3>
 
 
 <p align="center">
