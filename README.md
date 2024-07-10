@@ -2,14 +2,10 @@
 
 <h1 align= "left">Hi 👋 I am Aswin </h1>
 
-<!-- - 💞️ I am interested in Web and Application development.
-- 🌱 I am currently learning React Native.
+- 💞️ I'm a web developer who loves what I do, and I've hands on experience and specialize in creating user-friendly and visually appealing websites using the latest technologies.
+- 🌱 I'm well-versed in JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.
 - 👀 I am looking to collaborate on web development.
 - 📫 How to reach me  <br />
- -->
-
-<p>I'm a web developer who loves what I do, and I've hands on experience and specialize in creating user-friendly and visually appealing websites using the latest technologies. I'm well-versed in JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.</p>
-
 
 <p align="center">
   <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Aswin" height="40" width="40" /></a>
