@@ -3,8 +3,9 @@
 - 💞️ I'm a web developer who loves what I do, and I've hands on experience and specialize in creating user-friendly and visually appealing websites using the latest technologies.
 - 🌱 I'm well-versed in JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.<br />
 
-<p align="center">
-  <p>How to reach me 📫</p> <br />
+<p>How to reach me 📫</p> <br />
+
+<p align="center">  
   <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Aswin" height="50" width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aswins23" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="Aswin" height="50" width="50" /></a>
