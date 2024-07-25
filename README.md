@@ -4,7 +4,7 @@
 - 🌱 I'm well-versed in JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.<br />
 
 <p align="center">
-  How to reach me 📫 
+  <p>How to reach me 📫</p> <br />
   <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Aswin" height="50" width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aswins23" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="Aswin" height="50" width="50" /></a>
