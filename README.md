@@ -1,6 +1,6 @@
 <img src="images/svg/header_en.svg"></img>
 
-<h1>Softwre Developer</h1>
+<h1>Software Developer</h1>
 
 - 💞️ I'm a web developer who specialize in creating user friendly and visually appealing websites using the latest technologies.
 - 🌱 I'm well versed in JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.<br />
