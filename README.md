@@ -1,7 +1,9 @@
 <img src="images/svg/header_en.svg"></img>
 
 <p align="center">  
+&nbsp;&nbsp;&nbsp;&nbsp;
 <h1>Software Developer</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 - 💞️ I'm a web developer who specialize in creating user friendly and visually appealing websites using the latest technologies.
