@@ -2,8 +2,7 @@
 
 <p>- 💞️ I'm a <b>Web Developer</b> who specialize in creating user friendly and visually appealing websites.</p>
 <p>- 🌱 I build dynamic and responsive web applications.</p>
-
-&nbsp; <p>How to reach me 📫</p> <br />
+<p>How to reach me 📫</p>
 
 <p align="center">  
   <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Aswin" height="50" width="50" /></a>
