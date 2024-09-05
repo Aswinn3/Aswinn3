@@ -1,7 +1,7 @@
 <img src="images/svg/header_en.svg"></img>
 
 <p>- 💞️ I'm a <b>Web Developer</b> who specialize in creating user friendly and visually appealing websites.</p>
-<p>- 🌱 I'm using JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.</p>
+<p>- 🌱 I build dynamic and responsive web applications.</p>
 
 &nbsp; <p>How to reach me 📫</p> <br />
 
