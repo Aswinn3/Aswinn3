@@ -1,8 +1,9 @@
+<img src="images/svg/header_en.svg"></img>
 
 <p>- 💞️ I am a <b>Web Developer</b> specialize in creating user friendly and visually appealing websites.</p>
 <p>- 🌱 I build dynamic and responsive <b>Web Applications.</b></p>
-<p><b>How to Reach Me 📫</b></p>
 
+<p><b>How to Reach Me 📫</b></p>
 <p>  
   <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Aswin" height="50" width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
