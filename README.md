@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6a29a7a2-5f63-43e5-abd9-4eae2e9e5df9)<img src="images/svg/header_en.svg"></img>
 
 <p>- 💞️ I am a <b>Web Developer</b> specialize in creating user friendly and visually appealing websites.</p>
 <p>- 🌱 I build dynamic and responsive <b>Web Applications.</b></p>
