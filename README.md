@@ -2,7 +2,7 @@
 <p>- 🌱 I build dynamic and responsive <b>Web Applications.</b></p>
 <p><b>How to Reach Me 📫</b></p>
 
-<p align="center">  
+<p>  
   <a href="mailto:aswinselvan3@gmail.com" target="blank"><img align="center" src= "https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Aswin" height="50" width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aswinsportfolio24.netlify.app" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6a29a7a2-5f63-43e5-abd9-4eae2e9e5df9" alt="Aswin" height="50" width="50" /></a>
