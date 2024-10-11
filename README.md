@@ -2,24 +2,18 @@
 
 <p> 
   🌱 I am a passionate <b>Web and Application Developer</b> with a focus on creating <b>user-centric</b> and <b>visually engaging</b> websites and mobile apps.<br>
-  💻 I specialize in building <b>dynamic, responsive, and high-performance web applications</b> and <b>cross-platform mobile apps</b> that deliver exceptional user experiences.<br>
+  💻 I specialize in building <b>dynamic, responsive, and high-performance web applications</b> and <b>cross-platform mobile apps.</b><br>
   🚀 With expertise in the latest technologies, I ensure that every project is crafted with <b>clean code</b>, <b>scalability</b>, and <b>modern design trends</b>.
 </p>
 
 <p>
-  🔧 I have a solid foundation in <b>frontend and backend development</b> with a deep understanding of <b>JavaScript, React, React Native, Node.js</b>, and more.<br>
+  🔧 I have a solid foundation in <b>frontend and backend development</b> with a deep understanding of <b>JavaScript, React, React Native, Node.js</b><br>
   📱 I create intuitive and efficient mobile applications using <b>React Native</b>, allowing for seamless experiences across both iOS and Android platforms.<br>
-  ✨ I am committed to constantly improving my skills and staying up-to-date with emerging web and mobile technologies to create <b>cutting-edge solutions</b>.<br>
   🎯 My goal is to turn complex ideas into <b>elegant and efficient digital solutions</b> that exceed expectations.
 </p>
 
-<p align="center">
-  💬 I love collaborating with <b>creative teams</b> and businesses to bring their <b>ideas to life</b> through <b>innovative digital and mobile experiences</b>.<br>
-  🤝 Feel free to reach out for <b>collaborations</b>, <b>freelance opportunities</b>, or just to connect!
-</p>
-
 <h2 align="center">
-  Connect with me 
+  🤝 Feel free to reach out for <b>collaborations</b>, <b>freelance opportunities</b>, or just to connect!
 </h2>
 
 <p align="center">  
