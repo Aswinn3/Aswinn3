@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">
-  Connect with me 📫
+  Connect with me 
 </h2>
 
 <p align="center">  
@@ -22,7 +22,7 @@
 </p>
 
 <h2 align="center">
-  Languages & Tools :computer:
+  Languages & Tools 
 </h2>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
