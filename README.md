@@ -1,6 +1,6 @@
 <img src="images/svg/header_en.svg" align="center" width="100%" />
 
-<p align="center"> 
+<p> 
   🌱 I am a <b>Web Developer</b> specialized in creating user-friendly and visually appealing <b>Websites.</b><br>
   💞 I build dynamic and responsive <b>Web Applications.</b>
 </p>
