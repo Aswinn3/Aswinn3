@@ -7,7 +7,7 @@
   - 💻 I specialize in building <b>dynamic, responsive, and high-performance web applications</b> and <b>cross-platform mobile apps.</b>
 </p>
 <p>
-  - 🔧 I have a solid foundation in <b>frontend and backend development</b> with a deep understanding in <b>JavaScript, React, React Native.</b>
+  - 🔧 I have a solid foundation in <b>frontend and backend development</b>
 </p>
 <p>
   - 🎯 My goal is to turn complex ideas into <b>elegant and efficient digital solutions</b> that exceed expectations.
