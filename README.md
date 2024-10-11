@@ -13,6 +13,7 @@
   - 🎯 My goal is to turn complex ideas into <b>elegant and efficient digital solutions</b> that exceed expectations.
 </p>
 
+---
 <h2 align="center">
   Feel free to reach out for <b>collaborations!</b>
 </h2>
@@ -29,6 +30,7 @@
   </a> 
 </p>
 
+---
 <h2 align="center">
   Languages & Tools 
 </h2>
