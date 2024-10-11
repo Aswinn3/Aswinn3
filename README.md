@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">
-  🤝 Feel free to reach out for <b>collaborations</b>, <b>freelance opportunities</b>, or just to connect!
+  🤝 Feel free to reach out for <b>collaborations!</b>
 </h2>
 
 <p align="center">  
