@@ -6,7 +6,6 @@
 </p>
 <p>
   🔧 I have a solid foundation in <b>frontend and backend development</b> with a deep understanding of <b>JavaScript, React, React Native, Node.js</b><br>
-  📱 I create intuitive and efficient mobile applications using <b>React Native</b>, allowing for seamless experiences across both iOS and Android platforms.<br>
   🎯 My goal is to turn complex ideas into <b>elegant and efficient digital solutions</b> that exceed expectations.
 </p>
 
