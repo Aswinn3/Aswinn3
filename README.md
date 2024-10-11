@@ -1,12 +1,12 @@
 <img src="images/svg/header_en.svg" align="center" width="100%" />
 
-<p align="center"> 
+<p> 
   🌱 I am a passionate <b>Web and Application Developer</b> with a focus on creating <b>user-centric</b> and <b>visually engaging</b> websites and mobile apps.<br>
   💻 I specialize in building <b>dynamic, responsive, and high-performance web applications</b> and <b>cross-platform mobile apps</b> that deliver exceptional user experiences.<br>
   🚀 With expertise in the latest technologies, I ensure that every project is crafted with <b>clean code</b>, <b>scalability</b>, and <b>modern design trends</b>.
 </p>
 
-<p align="center">
+<p>
   🔧 I have a solid foundation in <b>frontend and backend development</b> with a deep understanding of <b>JavaScript, React, React Native, Node.js</b>, and more.<br>
   📱 I create intuitive and efficient mobile applications using <b>React Native</b>, allowing for seamless experiences across both iOS and Android platforms.<br>
   ✨ I am committed to constantly improving my skills and staying up-to-date with emerging web and mobile technologies to create <b>cutting-edge solutions</b>.<br>
