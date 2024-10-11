@@ -1,20 +1,20 @@
 <img src="images/svg/header_en.svg" align="center" width="100%" />
 
 <p> 
-  🌱 I am a passionate <b>Web and Application Developer</b> with a focus on creating <b>user-centric</b> and <b>visually engaging</b> websites and mobile apps.
+  - 🌱 I am a passionate <b>Web and Application Developer</b> with a focus on creating <b>user-centric</b> and <b>visually engaging</b> websites and mobile apps.
 </p>
 <p>
-  💻 I specialize in building <b>dynamic, responsive, and high-performance web applications</b> and <b>cross-platform mobile apps.</b>
+  - 💻 I specialize in building <b>dynamic, responsive, and high-performance web applications</b> and <b>cross-platform mobile apps.</b>
 </p>
 <p>
-  🔧 I have a solid foundation in <b>frontend and backend development</b> with a deep understanding of <b>JavaScript, React, React Native, Node.js</b>
+  - 🔧 I have a solid foundation in <b>frontend and backend development</b> with a deep understanding of <b>JavaScript, React, React Native, Node.js</b>
 </p>
 <p>
-  🎯 My goal is to turn complex ideas into <b>elegant and efficient digital solutions</b> that exceed expectations.
+  - 🎯 My goal is to turn complex ideas into <b>elegant and efficient digital solutions</b> that exceed expectations.
 </p>
 
 <h2 align="center">
-  🤝 Feel free to reach out for <b>collaborations!</b>
+  Feel free to reach out for <b>collaborations!</b>
 </h2>
 
 <p align="center">  
