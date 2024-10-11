@@ -11,13 +11,13 @@
 
 <p align="center">  
   <a href="mailto:aswinselvan3@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Aswin" height="50" width="50"/>
+    <img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Aswin" height="50" width="50" style="max-width: 100;"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aswinsportfolio24.netlify.app" target="blank">
-    <img align="center" src="https://github.com/user-attachments/assets/6a29a7a2-5f63-43e5-abd9-4eae2e9e5df9" alt="Aswin" height="50" width="50"/>
+    <img align="center" src="https://github.com/user-attachments/assets/6a29a7a2-5f63-43e5-abd9-4eae2e9e5df9" alt="Aswin" height="50" width="50" style="max-width: 100;"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aswins23" target="blank">
-    <img align="center" src="https://github.com/user-attachments/assets/5e1a2157-373a-4af8-89c6-187bb3d1393f" alt="Aswin" height="50" width="50"/>
+    <img align="center" src="https://github.com/user-attachments/assets/5e1a2157-373a-4af8-89c6-187bb3d1393f" alt="Aswin" height="50" width="50" style="max-width: 100;"/>
   </a> 
 </p>
 
