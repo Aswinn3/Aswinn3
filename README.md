@@ -36,7 +36,3 @@
     <img align="center" src="https://github.com/user-attachments/assets/5e1a2157-373a-4af8-89c6-187bb3d1393f" alt="LinkedIn" height="50" width="50"/>
   </a> 
 </p>
-
-📞 6379606140  
-✉️ aswinselvan3@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/aswins23) | [Portfolio](https://aswinsportfolio24.netlify.app) | [GitHub](https://github.com/aswinn3)  
