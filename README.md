@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-- 🌱 Passionate **Full-stack Developer** focused on creating **visually engaging** and **high-performance applications**.  
-- 💻 Skilled in **frontend and backend development**, building **scalable** and **efficient** solutions.  
+- 🌱 Passionate **Full-stack Developer** .  
+- 💻 **Frontend and backend development** solutions.  
 - 🔧 Experienced in **React, Python, JavaScript, Node.js, and databases (MySQL, MongoDB)**.  
 - 🎯 Love turning complex ideas into **elegant digital solutions**.  
 
